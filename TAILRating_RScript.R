@@ -550,6 +550,7 @@ perform_TAILanalysis <- function(building_df) {
   # print(radonLabel)
   
   #### Indoor Air quality label-----
+  # Indoor air label is the worst of the indidvidual parameter labels
   IndoorAirLabel <- max(co2Label, RHLabel, benzeneLabel, formaldehydeLabel,  
                         pmLabel, radonLabel, ventilationLabel, moldLabel,
                         na.rm = TRUE)
@@ -635,7 +636,7 @@ perform_TAILanalysis <- function(building_df) {
   # uncomment if you need to print the label on console
   # print(daylightFactorLabel)
   
-  # Lighting label
+  # Lighting label is the worst of the indidvidual parameter labels
   LightingLabel <- max(illuminanceLabel, daylightFactorLabel, na.rm = TRUE)
   
   # If all values are NA, set LightingLabel to NA

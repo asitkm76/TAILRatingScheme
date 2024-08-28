@@ -1,0 +1,25 @@
+Building,Room,Sensor,Date_Time,Variable,Unit,Value,BuildingType,RoomType,Occupancy,FloorArea
+A333,G011,AtmoCube,10/06/2024 09:27,temperature,celsius,23,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,RH,pcnt,35,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,pm25,ug per m3,6,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,co2,ppm,560,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,formaldehyde,ug per m3,15,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,benzene,ug per m3,2,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,radon,Bq per m3,100,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,ventilation,L per s,10,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,mold,NA,No visible mold,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,mold,NA,"Small areas visible mold, <400 cm2",Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,mold,NA,"Slightly larger areas visible mold, <  2500 cm2",Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,mold,NA,"Large areas visible mold, > 2500 cm2",Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,noise,dB(A),45,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,illuminance,lux,250,Office,Small office,1,10
+A333,G011,AtmoCube,10/06/2024 09:27,daylightFactor,pcnt,4.5,Office,Small office,1,10
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

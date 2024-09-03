@@ -52,12 +52,12 @@ The code requires you to have R installed on your system. In your R project, cha
 
 The output includes a TAIL rating schematic for each building in your database (an example below) and a table of the ratings for individual compnents and the overall rating for each building. 'NA' values indicate the specific parameter was not evaluated during the monitoring process.
 
+
 |Building|	TAIL|	TAILLabel	|TempLabel|	DFLabel|	LuxLabel|	CO2Label|	RHLabel|	BenzeneLabel|	FormaldehydeLabel|	PM2.5Label|	RadonLabel|	VentilationLabel|	MoldLabel|	NoiseLabel|
 |A333|	Red|	4|	2|	NA|	4|	1|	1|	NA|	1|	1|	NA|	NA|	NA|	4|
-![image](https://github.com/user-attachments/assets/fc2f201c-4a59-4872-be4d-4f3e4cc22440)
 
 
-![A333_TAIL_plot](https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3 "Sample schematic of the layered TAIL rating for a building")
+![A333_TAIL_plot](https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3 "Sample schematic of the layered TAIL rating for a building"){width=450}
 
 
 

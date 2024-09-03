@@ -54,11 +54,12 @@ The output includes a TAIL rating schematic for each building in your database (
 
 
 |Building|	TAIL|	TAILLabel	|TempLabel|	DFLabel|	LuxLabel|	CO2Label|	RHLabel|	BenzeneLabel|	FormaldehydeLabel|	PM2.5Label|	RadonLabel|	VentilationLabel|	MoldLabel|	NoiseLabel|
+|----|	----|	----|	----|	----|	----|	----|	----|	----|	----|	----|	----|	----|	----|	----|
 |A333|	Red|	4|	2|	NA|	4|	1|	1|	NA|	1|	1|	NA|	NA|	NA|	4|
 
 
 
 <img src="https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3" width="400" height="400">
-_Sample schematic of the layered TAIL rating for a building_
+
 
 

@@ -49,3 +49,15 @@ Download the sample csv file (TAILSampleData.csv) and use it to format your data
 The data structure is designed to be long-from data - measured data for different parameters, even if they were measured at the same time, follow each other on subsequent rows. This allows you to use data from different monitors, with different logging frequency, in the rating process. This also makes it easy to add parameters like mold and daylight factor, which are not measured, to the dataframe.  
 
 The code requires you to have R installed on your system. In your R project, change the working directory to where you have the data. Assign the name of your csv file to the file being imported in the code. The code can then be run to go through the data and create a graphical TAIL rating scheme for each building and a csv file with the TAIL ratings for all buildings for which you have monitored data.
+
+The output includes a TAIL rating schematic for each building in your database (an example below) and a table of the ratings for individual compnents and the overall rating for each building. 'NA' values indicate the specific parameter was not evaluated during the monitoring process.
+
+|Building|	TAIL|	TAILLabel	|TempLabel|	DFLabel|	LuxLabel|	CO2Label|	RHLabel|	BenzeneLabel|	FormaldehydeLabel|	PM2.5Label|	RadonLabel|	VentilationLabel|	MoldLabel|	NoiseLabel|
+|A333|	Red|	4|	2|	NA|	4|	1|	1|	NA|	1|	1|	NA|	NA|	NA|	4|
+![image](https://github.com/user-attachments/assets/fc2f201c-4a59-4872-be4d-4f3e4cc22440)
+
+
+![A333_TAIL_plot](https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3 "Sample schematic of the layered TAIL rating for a building")
+
+
+

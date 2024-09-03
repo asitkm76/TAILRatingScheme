@@ -57,7 +57,8 @@ The output includes a TAIL rating schematic for each building in your database (
 |A333|	Red|	4|	2|	NA|	4|	1|	1|	NA|	1|	1|	NA|	NA|	NA|	4|
 
 
-![A333_TAIL_plot](https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3 "Sample schematic of the layered TAIL rating for a building"){width=450}
 
+<img src="https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3" width="400" height="400">
+*Sample schematic of the layered TAIL rating for a building*
 
 

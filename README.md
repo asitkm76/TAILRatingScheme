@@ -62,4 +62,7 @@ The output includes a TAIL rating schematic for each building in your database (
 <img src="https://github.com/user-attachments/assets/d1c4c82c-bebb-43c8-a425-951756bdeec3" width="400" height="400">
 
 
+This repository for TAIL rating calculations was carried out as part of a [Dorothy fellowship](https://dorothy.ie) (awardee: Asit Kumar Mishra).
+
+<img src="https://github.com/user-attachments/assets/26ef327e-0f17-4cfe-af0d-75e5cc8edeb6" width="544" height="252">
 

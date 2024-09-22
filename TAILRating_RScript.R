@@ -433,7 +433,7 @@ perform_TAILanalysis <- function(building_df) {
       moldLabel <- 3  
     } else if (any(mold$category == "Yellow")) {
       moldLabel <- 2
-    } else if (all(benzene$label == "Green")) {
+    } else if (all(mold$category == "Green")) {
       moldLabel <- 1
     } else {
       moldLabel <- NA_real_   # Default case if no specific conditions are met
@@ -481,7 +481,7 @@ perform_TAILanalysis <- function(building_df) {
       benzeneLabel <- 4
     } else if (any(benzene$category == "Yellow")) {
       benzeneLabel <- 2
-    } else if (all(benzene$label == "Green")) {
+    } else if (all(benzene$category == "Green")) {
       benzeneLabel <- 1
     } else {
       benzeneLabel <- NA_real_   # Default case if no specific conditions are met

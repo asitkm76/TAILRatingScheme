@@ -33,6 +33,7 @@ This repository hosts the code for evaluating TAIL rating scheme of an indoor sp
 We also provide the algorithm behind the code in a text file called TAIL_algorithm.txt. The code uses csv files as inputs with specific column headings. A sample csv file with this structure has also been provided. To use the code, naming conventions and units observed in this file should be emulated by users. The code shared in this repository is in R. We have also created a [Google Colab](https://colab.research.google.com/drive/1syLYNQJuKt3-UC2ISOF8GYqWQsH-yVbX?usp=drive_link) notebook with a version of the code in Python. Users may choose whichever envrionment suits them the most.
 
 ### Using the code
+Here is a quick [introduction video](https://youtu.be/hAK0kMrOA2U) on how to use the repositiory. 
 Download the sample csv file (TAILSampleData.csv) and use it to format your data. The data needs to have the following columns:
 * Building: name of the building. You can use a building name or a code as long as each building in the dataset has its unique name.
 * Room: name or number for room where the data was monitored
